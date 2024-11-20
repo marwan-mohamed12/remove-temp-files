@@ -29,9 +29,16 @@ This tool is designed to help clean up unnecessary files and free up disk space.
 
 ## 📦 Setup
 
+### Java Version
 1. Clone the repository or download the source file.
 2. Ensure that you have a Java IDE or `javac` installed for compiling the code.
 
+### Python Version
+1. Switch to the `python` branch of this repository:
+
+   ```bash
+   git checkout python
+2. Ensure that Python is installed on your system.
 ---
 
 ## 🚀 Usage
@@ -42,3 +49,23 @@ This tool is designed to help clean up unnecessary files and free up disk space.
 
    ```bash
    javac TempFileCleaner.java
+
+---
+
+## 📧 Contact
+
+For issues or suggestions, please open an issue or contact the developer.
+Happy Cleaning! 🚀
+
+
+
+
+
+
+
+
+
+
+
+
+
